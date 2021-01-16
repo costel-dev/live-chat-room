@@ -13,7 +13,6 @@ const login = async (email, password) => {
     error.value = null;
     return res;
   } catch (err) {
-    console.log(err.message);
     error.value = 'Email or password invalid';
   }
 };
