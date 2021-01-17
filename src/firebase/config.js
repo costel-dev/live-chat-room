@@ -3,13 +3,12 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyDxvZDYEiQLw1FYFIKEojK8dXzQxWiY08s',
-  authDomain: 'vue-calendar-a915d.firebaseapp.com',
-  databaseURL: 'https://vue-calendar-a915d.firebaseio.com',
-  projectId: 'vue-calendar-a915d',
-  storageBucket: 'vue-calendar-a915d.appspot.com',
-  messagingSenderId: '1011366733158',
-  appId: '1:1011366733158:web:8757adca9c1cfadd5f54a7',
+  apiKey: 'AIzaSyDPkFCmF-ySB_6lptr3cKr2cHVK-88c6PU',
+  authDomain: 'chat-4friends.firebaseapp.com',
+  projectId: 'chat-4friends',
+  storageBucket: 'chat-4friends.appspot.com',
+  messagingSenderId: '120323012726',
+  appId: '1:120323012726:web:2e7e2440cbd55203020757',
 };
 
 // init firebase
